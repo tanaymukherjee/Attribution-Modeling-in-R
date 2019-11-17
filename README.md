@@ -21,6 +21,8 @@ This is, in fact, an application of a Markov chains. We will come back to this l
 
 For example, let’s assume we have to calculate the contribution of channel C1. We will remove the channel C1 from the model and see how many conversions are happening without C1 in the picture, viz-a-viz total conversion when all the channels are intact.
 
+Also, read about Shapley value.
+
 Reference:
 https://www.analyticsvidhya.com/blog/2018/01/channel-attribution-modeling-using-markov-chains-in-r/
-Also, read about Shapley value.
+
