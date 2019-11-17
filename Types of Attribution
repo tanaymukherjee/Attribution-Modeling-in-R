@@ -1,9 +1,35 @@
-Multi-Touch Attribution For Marketers
+# Multi-Touch Attribution For Marketers
 
-Single-Touch Attribution
+# 1. Single-Touch Attribution
 For many businesses, single-touch attribution is the default mode of operations. Under this model, credit is given only to the first or last instance of contact before conversion. There is a familiar logic at play here: if this is the touch that most immediately preceded the conversion, it’s natural to assume there is some causation between the two. Conversely, if a particular campaign led to the lead in the first place, it deserves more credit than any others.
 
 This model can work, but it can also leave your business open to some misleading information on ROI and revenue attribution. Many times, a customer’s path to converting involves many stops along the way. While the last one does contain inherent value (at the very least, it confirmed the positive feelings this person was already developing about your business), but giving all the revenue credit to one event ignores everything that happened before or after.
 
 For example, if you tend to execute a certain kind of campaign – ebook promotion, for instance – for leads and opportunities who are in the middle of the buyer’s journey, a single-touch attribution model would consistently neglect the revenue-driving tole those campaigns play.
 
+# 2. Time-Decay Model
+The time-decay model is the multi-touch most closely related to last-touch attribution. With time-decay, the business gives increasing revenue credit as the interactions get closer to conversion. This applies the basic principle of single-touch – that the later the interaction is, the more credit it deserves – but spreads it out to include some revenue credit for earlier interactions as well.
+
+Detractors of this model would argue it overlooks the early interactions which created the leads in the first place. However, as respected Google employee and digital marketing evangelist Avinash Kaushik puts it, “If early touchpoints were so magnificent, why didn’t they convert?”
+
+That might seem a bit harsh – after all, some early interactions simply aren’t meant to close yet – but if you notice you have certain campaigns that consistently lead to conversions at the bottom of the sales funnel, this model may work best for you.
+
+# 3. Linear Model
+The linear model gives equal revenue credit to every touchpoint a lead makes along the path to conversion. This is often a good step to take if a company is making its first foray into multi-touch attribution. It offers simplicity and clean reporting that can be extremely attractive for business owners with limited time and resources to devote to ROI tracking.
+
+One shortcoming for the linear model is it doesn’t offer much room for growth-based modelling. When you apply credit evenly throughout all possible touchpoints, you limit how much insight can be gleaned. If leads aren’t converting at a satisfactory rate, you know something needs to be changed; it just won’t be quite clear what.
+
+# 4. Position-Based Attribution
+The position-based attribution model (also known as U-shaped) gives increased weight to both the first and last interactions a lead has before converting. This model takes the philosophy of the time-decay model – that the last touch has an important impact on conversion – and includes some room for credit for the first interaction as well.
+
+You might call this the “baseball model” because in baseball, starting pitchers and closers are typically given the most credit for a victory, while middle relievers are given less. It’s a logical solution to the problem of picking between first and last touches. By opting for a happy medium between the two, you avoid wasting time on middle touchpoints while leaving room to gain insights from both first and last.
+
+# 5. Interaction-Based Attribution
+Interaction-based modelling is a way of using historical business data to anchor your revenue attribution. With it, the marketer ascribes revenue credit based on the specific type of interaction. If, throughout your time tracking ROI for your business, a particular video, webinar, ebook, etc. has the most value of any individual piece of content, then you assign it a heavier weight than other customer touch points along the buyer’s journey.
+
+As you might expect, this is typically a good option for marketers who’ve already been tracking these metrics for years. It requires an intimate understanding of how different campaign formats have worked in more isolated circumstances.
+
+However, this model can be susceptible to confirmation bias because it requires you to insert initial assumptions into the data framework. Therefore, it’s only recommended if you have an “outlier” piece of content that has driven traffic in enough past campaigns that you can be confident in its continued success.
+
+Reference:
+https://www.business2community.com/brandviews/mainstreethost/beginners-guide-multi-touch-attribution-marketers-01769535
